@@ -6,7 +6,7 @@
 
 ---
 
-## 👥 팀원 소개
+## 👥 팀원
 | 이름       | GitHub                                  |
 |------------|-----------------------------------------|
 | 김재희     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/CoderJDan) |
