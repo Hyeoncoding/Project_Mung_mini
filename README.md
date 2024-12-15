@@ -7,13 +7,13 @@
 ---
 
 ## 👥 팀원 소개
-| 이름       | 역할         | GitHub                                  |
-|------------|--------------|-----------------------------------------|
-| 김재희     | 팀장, 백엔드 | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/CoderJDan) |
-| 지현준     | 프론트엔드   | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mini-xi) |
-| 유준모     | 디자이너     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mini-xi) |
-| 장현진     | QA 담당      | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mini-xi) |
-| 박가현     | 데이터 분석  | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mini-xi) |
+| 이름       | GitHub                                  |
+|------------|-----------------------------------------|
+| 김재희     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/CoderJDan) |
+| 지현준     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mini-xi) |
+| 유준모     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mini-xi) |
+| 장현진     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mini-xi) |
+| 박가현     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mini-xi) |
 
 ---
 
